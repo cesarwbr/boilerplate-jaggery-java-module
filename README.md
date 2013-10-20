@@ -40,7 +40,7 @@ jar cmf manifest.txt org.jaggeryjs.hostobjects.test.jar org/
 
 Copy the above packaged jar or the org.jaggeryjs.hostobjects.test.jar which is in the same directory into the JAGGERY_HOME/carbon/repository/components/dropins directory.
 
-5. Now start Jaggery server:
+### 7. Now start Jaggery server:
 ```bash
 sh JAGGERY_HOME/bin/server.sh
 ```
