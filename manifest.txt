@@ -1,0 +1,7 @@
+Export-Package: org.jaggeryjs.hostobjects.test
+DynamicImport-Package: *
+Bundle-Version: 1.0.0
+Bundle-Name: org.jaggeryjs.hostobjects.test
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.jaggeryjs.hostobjects.test
+JavaScript-HostObject: org.jaggeryjs.hostobjects.test.TestHostObject

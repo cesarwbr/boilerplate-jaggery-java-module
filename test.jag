@@ -1,0 +1,5 @@
+<%
+var test = require("test");
+var test = new test.Tester("Cesar");
+print(test.sayHello);
+%>
