@@ -1,6 +1,6 @@
 # JaggeryJS java module boilerplate 
 
-![](http://jaggeryjs.org/images/jaglogo.png)
+![](http://jaggeryjs.org/themes/ROOT/img/logo.png)
 
 > An boilerplate for build your own jaggery module using Java with WSO2 Custom Host Object.
 
